@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Added ID Picture Card and Teams template">
-      <change beforePath="$PROJECT_DIR$/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Team.html" afterDir="false" />
-    </list>
-=======
     <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
->>>>>>> Task: Added Format heading
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-<<<<<<< HEAD
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
-=======
->>>>>>> Task: Added Format heading
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oj8vvIRSyuEFrZJFQvYmtIhCzJ" />
@@ -29,22 +15,12 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-<<<<<<< HEAD
-    <option name="showMembers" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-=======
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
->>>>>>> Task: Added Format heading
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -71,10 +47,6 @@
       <option name="presentableId" value="Default" />
       <updated>1613788873965</updated>
       <workItem from="1613788876796" duration="3209000" />
-<<<<<<< HEAD
-      <workItem from="1613792608584" duration="16579000" />
-=======
->>>>>>> Task: Added Format heading
     </task>
     <task id="LOCAL-00001" summary="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md">
       <created>1613789459438</created>
@@ -83,64 +55,12 @@
       <option name="project" value="LOCAL" />
       <updated>1613789459438</updated>
     </task>
-<<<<<<< HEAD
-    <task id="LOCAL-00002" summary="Task: Added Format heading">
-      <created>1613792652982</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1613792652982</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Task: Added Format heading">
-      <created>1613794193184</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1613794193184</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Task: Subtracted Format heading">
-      <created>1613794210374</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1613794210374</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Task: Adding Hello">
-      <created>1613794382416</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1613794382416</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Task: Added ID Picture Card and Teams template">
-      <created>1613875808389</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1613875808390</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
-=======
     <option name="localTasksCounter" value="2" />
->>>>>>> Task: Added Format heading
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-<<<<<<< HEAD
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Default.Subject" />
-      </list>
-    </option>
-  </component>
-=======
->>>>>>> Task: Added Format heading
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -151,21 +71,9 @@
         </entry>
       </map>
     </option>
-<<<<<<< HEAD
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
-    <MESSAGE value="Task: Added Format heading" />
-    <MESSAGE value="Task: Subtracted Format heading" />
-    <MESSAGE value="Task: Adding Hello" />
-    <MESSAGE value="Task: Added ID Picture Card and Teams template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added ID Picture Card and Teams template" />
-=======
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
->>>>>>> Task: Added Format heading
   </component>
 </project>
