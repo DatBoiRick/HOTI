@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
+    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Added Format heading">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Team.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -47,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613788873965</updated>
       <workItem from="1613788876796" duration="3209000" />
+      <workItem from="1613792608584" duration="1391000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md">
       <created>1613789459438</created>
@@ -55,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613789459438</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Task: Added Format heading">
+      <created>1613792652982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613792652982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,9 +81,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
+    <MESSAGE value="Task: Added Format heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added Format heading" />
   </component>
 </project>
