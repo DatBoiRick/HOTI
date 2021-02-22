@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Added Format heading">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Added Front Page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +49,7 @@
       <workItem from="1613788876796" duration="3209000" />
       <workItem from="1613792608584" duration="1391000" />
       <workItem from="1614006754618" duration="251000" />
-      <workItem from="1614007327411" duration="2724000" />
+      <workItem from="1614007327411" duration="3127000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md">
       <created>1613789459438</created>
@@ -68,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613792652982</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task: Added Front Page">
+      <created>1614010579221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614010579222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
     <MESSAGE value="Task: Added Format heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added Format heading" />
+    <MESSAGE value="Task: Added Front Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added Front Page" />
   </component>
 </project>
