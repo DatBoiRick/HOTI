@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Added Front Page" />
+    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Organized Files in Pycharm">
+      <change beforePath="$PROJECT_DIR$/.docs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/AU.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/AU.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/BTI.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BTI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/BW.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BW.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/ChangeLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ChangeLog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/DCB.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/DCB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/IS.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/IS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/docs/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/ThePeople.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ThePeople.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docs/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +94,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.docs" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +108,7 @@
       <workItem from="1613788876796" duration="3209000" />
       <workItem from="1613792608584" duration="1391000" />
       <workItem from="1614006754618" duration="251000" />
-      <workItem from="1614007327411" duration="3127000" />
+      <workItem from="1614007327411" duration="3813000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md">
       <created>1613789459438</created>
@@ -72,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614010579222</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task: Organized Files in Pycharm">
+      <created>1614010992255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614010992255</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +160,7 @@
     <MESSAGE value="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md" />
     <MESSAGE value="Task: Added Format heading" />
     <MESSAGE value="Task: Added Front Page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added Front Page" />
+    <MESSAGE value="Task: Organized Files in Pycharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Organized Files in Pycharm" />
   </component>
 </project>
