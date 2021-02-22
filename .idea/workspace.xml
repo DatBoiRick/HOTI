@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Organized Files in Pycharm V3">
-      <change beforePath="$PROJECT_DIR$/ChangeLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ChangeLog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/docs/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+    <list default="true" id="039052b8-352b-407f-964c-66d9d62bd7d5" name="Default Changelist" comment="Task: Organized Files in Pycharm V5">
+      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <workItem from="1613788876796" duration="3209000" />
       <workItem from="1613792608584" duration="1391000" />
       <workItem from="1614006754618" duration="251000" />
-      <workItem from="1614007327411" duration="4459000" />
+      <workItem from="1614007327411" duration="4789000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Framework for website including NavTab with pull down and Pages for index.html , Team.html , AU.html, BWI.html ChangeLog.md DCB.html ThePeople.html IS.html BW.html .gitingnore README.md">
       <created>1613789459438</created>
@@ -100,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614012050145</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Task: Organized Files in Pycharm V4">
+      <created>1614012108873</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614012108873</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task: Organized Files in Pycharm V5">
+      <created>1614012323133</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614012323133</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +137,8 @@
     <MESSAGE value="Task: Organized Files in Pycharm" />
     <MESSAGE value="Task: Organized Files in Pycharm V2" />
     <MESSAGE value="Task: Organized Files in Pycharm V3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Organized Files in Pycharm V3" />
+    <MESSAGE value="Task: Organized Files in Pycharm V4" />
+    <MESSAGE value="Task: Organized Files in Pycharm V5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Organized Files in Pycharm V5" />
   </component>
 </project>
