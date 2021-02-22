@@ -1,0 +1,94 @@
+Index: Team.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!doctype html>\n<html lang=\"en\">\n  <head>\n    <!-- Required meta tags -->\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n    <!-- Bootstrap CSS -->\n    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl\" crossorigin=\"anonymous\">\n\n    <title>History of the Internet</title>\n\n<div class=\"collapse\" id=\"navbarToggleExternalContent\">\n  <div class=\"bg-dark p-4\">\n    <h5 class=\"text-white h4\">History of the Internet</h5>\n    <ul class=\"list-group list-group-flush\">\n        <nav class=\"navbar navbar-expand-lg navbar-light bg-light\">\n  <div class=\"container-fluid\">\n    <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarTogglerDemo02\" aria-controls=\"navbarTogglerDemo02\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n      <span class=\"navbar-toggler-icon\"></span>\n    </button>\n    <div class=\"collapse navbar-collapse\" id=\"navbarTogglerDemo02\">\n      <ul class=\"navbar-nav me-auto mb-2 mb-lg-0\">\n        <li class=\"nav-item dropdown\">\n          <a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"navbarScrollingDropdown\" role=\"button\" data-bs-toggle=\"dropdown\" aria-expanded=\"false\">\n            The Internet\n          </a>\n          <ul class=\"dropdown-menu\" aria-labelledby=\"navbarScrollingDropdown\">\n            <li><a class=\"dropdown-item\" href=\"BTI.html\">Invention of the Internet</a></li>\n            <li><a class=\"dropdown-item\" href=\"BW.html\">Browser Wars</a></li>\n            <li><a class=\"dropdown-item\" href=\"IS.html\">Internet Search</a></li>\n            <li><a class=\"dropdown-item\" href=\"DCB.html\">Dot Com Bubble</a></li>\n            <li><a class=\"dropdown-item\" href=\"ThePeople.html\">The People & The Internet</a></li>\n          </ul>\n        </li>\n           <li class=\"nav-item\">\n            <a class=\"nav-link\" href=\"AU.html\">About Assignment</a>\n           </li>\n           <li class=\"nav-item\">\n            <a class=\"nav-link\" href=\"Team.html\">The Team</a>\n           </li>\n      </ul>\n      <form class=\"d-flex\">\n        <input class=\"form-control me-2\" type=\"search\" placeholder=\"Search\" aria-label=\"Search\">\n        <button class=\"btn btn-outline-success\" type=\"submit\">Search</button>\n      </form>\n    </div>\n  </div>\n</nav>\n        </li>\n       </ul>\n    </ul>\n  </div>\n</div>\n\n<nav class=\"navbar navbar-dark bg-dark\">\n  <div class=\"container-fluid\">\n    <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarToggleExternalContent\" aria-controls=\"navbarToggleExternalContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n      <span class=\"navbar-toggler-icon\"></span>\n    </button>\n  </div>\n</nav>\n  </head>\n  <body class=\"dropdown-menu-lg-start h-100 text-lg-start bg-dark\" data-new-gr-c-s-loaded=\"9.27.0\">\n\n<div class=\"container\">\n  <main class=\"px-3\"class=\"text-lg-center\">\n    <figure class=\"text-center text-white\" >\n    <h1>Meet the Team </h1>\n    <p class=\"lead\"></p>\n    <p class=\"lead\">\n    </p>\n  </main>\n</div>\n\n<div class=\"container-lg\">\n<div class=\"row\">\n  <div class=\"col-sm-6\">\n    <div class=\"card text-center\">\n      <div class=\"card-body card-img\">\n        <img src=\"https://ca.slack-edge.com/T28EF5C02-U01K4GNS4S1-fda885ab1e3c-512\" height=\"400\" width=\"400\" class=\"rounded-circle\">\n        <h2></h2>\n        <h1 class=\"card-title\" class=\"text-black text-center px-3\">AZRA AWAN</h1>\n        <p class=\"card-text text-left\">\n        <h7>My name is Azra Awan. I am a current Graduate Studies student at NJIT majoring in Masters in Information Systems.</h7>\n        <h7> I currently work for the Department of Labor as an Investigator. I wanted to expand my career opportunities by majoring\n          in Information Systems with a concentration in Cyber Security.  Previously I studied at Cedar Crest College with an undergraduate degree in Elementary, Secondary Education & Science and a minor in Biology. After 15 years of teaching, I landed a job working for the State of NJ and headed on a different career path and here I am. </p>\n        <a href=\"https://www.linkedin.com/in/azra-awan-92b1a320\" class=\"btn btn-outline-dark text-center btn-lg\">LinkedIn</a>\n      </div>\n    </div>\n  </div>\n  <div class=\"col-sm-6\">\n    <div class=\"card text-center\">\n      <div class=\"card-body\">\n        <img src=\"https://ca.slack-edge.com/T28EF5C02-U01KNG9AKTL-483384c64d05-512\" height=\"400\" width=\"400\" class=\"img-fluid rounded-circle\" alt=\"...\">\n        <h2></h2>\n        <h1 class=\"card-title text-center\">RICARDO TORRES</h1>\n        <p class=\"card-text text-center\">Hello world! I am a graduate student from Montclair State University where I obtained a Bachelor's in Business Administration. Currently I am pursuing a Masters in Business and Information Systems and work full time at a United States Army Armory located in Somerset NJ. I have served in the New Jersey National Guard since 2017 to present day and plan to continue to serve for the next couple of years. The military has played a large role in my life and personally one of my greatest accomplishments. When I'm not working I like to play soccer and enjoy the outdoors with my friends and family.</p>\n        <a href=\"https://www.linkedin.com/in/ricardo-torres-484063185/\" class=\"btn btn-outline-dark btn-lg\">LinkedIn</a>\n      </div>\n    </div>\n  </div>\n</div>\n</div>\n    <!-- Optional JavaScript; choose one of the two! -->\n\n    <!-- Option 1: Bootstrap Bundle with Popper -->\n    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0\" crossorigin=\"anonymous\"></script>\n\n    <!-- Option 2: Separate Popper and Bootstrap JS -->\n    <!--\n    <script src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js\" integrity=\"sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi\" crossorigin=\"anonymous\"></script>\n    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.min.js\" integrity=\"sha384-nsg8ua9HAw1y0W1btsyWgBklPnCUAFLuTMS2G72MMONqmOymq585AcH49TLBQObG\" crossorigin=\"anonymous\"></script>\n    -->\n  </body>\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Team.html b/Team.html
+--- a/Team.html	(revision 6b40a358d41641b6ec52fb6302f59128adb41fdb)
++++ b/Team.html	(date 1613962866341)
+@@ -8,7 +8,7 @@
+     <!-- Bootstrap CSS -->
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+ 
+-    <title>History of the Internet</title>
++    <title>Hello, world!</title>
+ 
+ <div class="collapse" id="navbarToggleExternalContent">
+   <div class="bg-dark p-4">
+@@ -33,11 +33,11 @@
+             <li><a class="dropdown-item" href="ThePeople.html">The People & The Internet</a></li>
+           </ul>
+         </li>
+-           <li class="nav-item">
+-            <a class="nav-link" href="AU.html">About Assignment</a>
+-           </li>
++        <li class="nav-item">
++          <a class="nav-link" href="AU.html">About Assignment</a>
++        </li>
+            <li class="nav-item">
+-            <a class="nav-link" href="Team.html">The Team</a>
++          <a class="nav-link" href="Team.html">The Team</a>
+            </li>
+       </ul>
+       <form class="d-flex">
+@@ -52,7 +52,6 @@
+     </ul>
+   </div>
+ </div>
+-
+ <nav class="navbar navbar-dark bg-dark">
+   <div class="container-fluid">
+     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+@@ -61,47 +60,11 @@
+   </div>
+ </nav>
+   </head>
+-  <body class="dropdown-menu-lg-start h-100 text-lg-start bg-dark" data-new-gr-c-s-loaded="9.27.0">
++  <body>
++     <h1>Teams Page</h1>
+ 
+-<div class="container">
+-  <main class="px-3"class="text-lg-center">
+-    <figure class="text-center text-white" >
+-    <h1>Meet the Team </h1>
+-    <p class="lead"></p>
+-    <p class="lead">
+-    </p>
+-  </main>
+-</div>
+ 
+-<div class="container-lg">
+-<div class="row">
+-  <div class="col-sm-6">
+-    <div class="card text-center">
+-      <div class="card-body card-img">
+-        <img src="https://ca.slack-edge.com/T28EF5C02-U01K4GNS4S1-fda885ab1e3c-512" height="400" width="400" class="rounded-circle">
+-        <h2></h2>
+-        <h1 class="card-title" class="text-black text-center px-3">AZRA AWAN</h1>
+-        <p class="card-text text-left">
+-        <h7>My name is Azra Awan. I am a current Graduate Studies student at NJIT majoring in Masters in Information Systems.</h7>
+-        <h7> I currently work for the Department of Labor as an Investigator. I wanted to expand my career opportunities by majoring
+-          in Information Systems with a concentration in Cyber Security.  Previously I studied at Cedar Crest College with an undergraduate degree in Elementary, Secondary Education & Science and a minor in Biology. After 15 years of teaching, I landed a job working for the State of NJ and headed on a different career path and here I am. </p>
+-        <a href="https://www.linkedin.com/in/azra-awan-92b1a320" class="btn btn-outline-dark text-center btn-lg">LinkedIn</a>
+-      </div>
+-    </div>
+-  </div>
+-  <div class="col-sm-6">
+-    <div class="card text-center">
+-      <div class="card-body">
+-        <img src="https://ca.slack-edge.com/T28EF5C02-U01KNG9AKTL-483384c64d05-512" height="400" width="400" class="img-fluid rounded-circle" alt="...">
+-        <h2></h2>
+-        <h1 class="card-title text-center">RICARDO TORRES</h1>
+-        <p class="card-text text-center">Hello world! I am a graduate student from Montclair State University where I obtained a Bachelor's in Business Administration. Currently I am pursuing a Masters in Business and Information Systems and work full time at a United States Army Armory located in Somerset NJ. I have served in the New Jersey National Guard since 2017 to present day and plan to continue to serve for the next couple of years. The military has played a large role in my life and personally one of my greatest accomplishments. When I'm not working I like to play soccer and enjoy the outdoors with my friends and family.</p>
+-        <a href="https://www.linkedin.com/in/ricardo-torres-484063185/" class="btn btn-outline-dark btn-lg">LinkedIn</a>
+-      </div>
+-    </div>
+-  </div>
+-</div>
+-</div>
++
+     <!-- Optional JavaScript; choose one of the two! -->
+ 
+     <!-- Option 1: Bootstrap Bundle with Popper -->
